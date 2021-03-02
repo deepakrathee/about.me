@@ -1,0 +1,19 @@
+body {
+    background-image: url("../images/bg-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+img {
+    border-radius: 50%;
+    margin: 0.5rem;
+    width: 35%;
+}
+i {
+    font-size: 2rem;
+    padding: 0.5rem;
+}
+footer {
+    margin: 0.1rem;
+    padding: 0.1rem;
+}
